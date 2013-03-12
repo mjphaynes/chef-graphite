@@ -4,7 +4,7 @@
 
 Installs and configures [Graphite](http://graphite.wikidot.com/). 
 Much of the work in this cookbook is done by [Heavy Water Software](https://github.com/heavywater/chef-graphite) and [Hector Castro](https://github.com/hectcastro/chef-graphite).
-This version is configured specifically for Amazon Linux as I couldn't get any others to work out of the box on the Amazon AMIs.
+This version is configured specifically for [Amazon Linux](http://aws.amazon.com/amazon-linux-ami/) as I couldn't get any others to work out of the box on the Amazon AMIs.
 This can be integrated into the great [StatsD](https://github.com/etsy/statsd) library from [Etsy](http://etsy.com) for realtime statistics. 
 
 ## Requirements
